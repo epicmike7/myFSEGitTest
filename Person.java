@@ -1,3 +1,4 @@
+//This is a Java class model
 public class Person
 {
 private String firstName;
