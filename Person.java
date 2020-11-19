@@ -3,6 +3,7 @@ public class Person
 private String firstName;
 private String otherNames;
 private String familyName;
+private Int age;
 
 public Persion()
 {
@@ -11,9 +12,9 @@ othernames = new String();
 familyName = new String();
 }
 
-public GetAge()
+public Int GetAge()
 {
-get.Age;	
+return this.age;	
 }
 
 }
